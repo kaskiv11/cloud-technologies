@@ -1,0 +1,1 @@
+export default "https://t8jp4663ba.execute-api.eu-central-1.amazonaws.com/dev";
